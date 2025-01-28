@@ -4,8 +4,10 @@ const dailyGoals = {
       "Monday: Dentist @ 8am ",
       "Tuesday: Attend team meeting @7am",
       "Wednesday: Go for a 30-minute walk in the AM",
-      "Thursday: Read 20 pages of a book before bed"
+      "Thursday: Read 20 pages of a book before bed",
+      "Friday : RELAX",
     ],
+
     
     // Keep track of the current goal to display
     currentGoalIndex: 0,
